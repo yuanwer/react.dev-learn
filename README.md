@@ -1,3 +1,5 @@
+[[English](./README.en.md)] | [中文]
+
 # React.dev 学习项目
 
 这是一个用于学习 React 官方文档的实践项目。项目包含了从 React 官方文档中的示例代码和练习。
